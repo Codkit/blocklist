@@ -1,5 +1,0 @@
-www.youtube.com
-static.doubleclick.net
-beacons.gcp.gvt2.com
-(\.|^)youtube\.com$
-(\.|^)gvt2\.com$
