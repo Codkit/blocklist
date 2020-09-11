@@ -1,0 +1,14 @@
+# Title: pi-hole  - Black-List
+#
+# Autor: Me
+#
+# Date: 17. August 2020 18:54 (UTC)
+# Number of unique domains: 3
+# 
+# Project home page: 
+# 
+# =============================================================== 
+
+www.youtube.com
+static.doubleclick.net
+beacons.gcp.gvt2.com
