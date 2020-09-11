@@ -12,3 +12,4 @@
 www.youtube.com
 static.doubleclick.net
 beacons.gcp.gvt2.com
+beacons2.gvt2.com
