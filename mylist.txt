@@ -9,10 +9,5 @@
 # 
 # =============================================================== 
 
-www.youtube.com
-static.doubleclick.net
-beacons.gcp.gvt2.com
-beacons2.gvt2.com
-beacons3.gvt2.com
-beacons4.gvt2.com
-beacons.gvt2.com
+dwell.co.uk
+dwell.com
