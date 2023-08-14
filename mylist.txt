@@ -9,5 +9,11 @@
 # 
 # =============================================================== 
 
-0.0.0.0  dwell.co.uk
-0.0.0.0  dwell.com
+0.0.0.0  command-6.amcrestcloud.com
+0.0.0.0  ftps.hostedcloudvideo.com
+0.0.0.0  media-amc-0.hostedcloudvideo.com
+0.0.0.0  ip.3322.net
+0.0.0.0  www.amcrestddns.com
+0.0.0.0  config.amcrestcloud.com
+0.0.0.0  dh.amcrestsecurity.com
+0.0.0.0  pgl.yoyo.org
