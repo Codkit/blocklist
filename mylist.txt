@@ -17,3 +17,4 @@
 0.0.0.0  config.amcrestcloud.com
 0.0.0.0  dh.amcrestsecurity.com
 0.0.0.0  pgl.yoyo.org
+0.0.0.0  www.amcrestcloud.com
